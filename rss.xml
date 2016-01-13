@@ -4,8 +4,15 @@
         <description><![CDATA[TechDragon]]></description>
         <link>https://thegrid.ai/techdragon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 09:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 09:58:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/techdragon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Podcast share ]]></title>
+            <description><![CDATA[<article><h1>Podcast share </h1><p>What if your humble hosts could have there way? A wave of their magic wands, whatever they want changed in Linux Land in 2016 would just happen? We spend sometime this week fantasizing about all things we wish would happen this year to make Linux better.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/525c042e880718e584f673c3a15998b195fb4696.jpg"></article>]]></description>
+            <link>http://feedproxy.google.com/~r/TheLinuxActionShow/~3/h6Y_QEBLUmc/</link>
+            <guid isPermaLink="false">d6e5520e-13a9-497d-90cc-5fc79d26698a</guid>
+            <pubDate>Wed, 13 Jan 2016 09:58:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Another test post]]></title>
             <description><![CDATA[<article><h1>Another test post</h1><p>Listening to The Linux Action Show! MP3 (2016 Linux Wish List | LAS 399): http://feedproxy.google.com/~r/TheLinuxActionShow/~3/h6Y_QEBLUmc/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/525c042e880718e584f673c3a15998b195fb4696.jpg"></article>]]></description>
