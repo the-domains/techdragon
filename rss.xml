@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TechDragon]]></title>
         <description><![CDATA[TechDragon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/techdragon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 09:58:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 09:58:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/techdragon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Another test post]]></title>
+            <description><![CDATA[<article><h1>Another test post</h1><p>Listening to The Linux Action Show! MP3 (2016 Linux Wish List | LAS 399): http://feedproxy.google.com/~r/TheLinuxActionShow/~3/h6Y_QEBLUmc/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/525c042e880718e584f673c3a15998b195fb4696.jpg"></article>]]></description>
+            <link>https://thegrid.ai/techdragon/another-test-post/index.html</link>
+            <guid isPermaLink="false">847bf619-6c35-4019-b9d2-e31cc5861d1c</guid>
+            <pubDate>Wed, 13 Jan 2016 09:58:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test post ]]></title>
             <description><![CDATA[<article><h1>Test post </h1><p>Listening to Coder Radio MP3 (Slacking while Coding | CR 187): http://feedproxy.google.com/~r/coderradiomp3/~3/Psjf5zkBS08/</p></article>]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <link>https://thegrid.ai/techdragon/test-post/index.html</link>
             <guid isPermaLink="false">59e79982-958b-463e-84e2-5209ca00379b</guid>
             <pubDate>Wed, 13 Jan 2016 09:57:56 GMT</pubDate>
         </item>
