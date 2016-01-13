@@ -1,0 +1,14 @@
+layout_spectrum: 0.9865735
+color:
+  saturation: 0.3644027
+  brandStrength: 0.6815252
+  lightness: 0.01147528
+  rhythmicContrast: 0.04083849
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.6783029
+name: TechDragon
