@@ -1,3 +1,16 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.6783029
 color:
   saturation: 0.3644027
   brandStrength: 0.6815252
@@ -9,18 +22,5 @@ color:
     - '#2667FF'
     - '#3B28CC'
   lightness: 0.01147528
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-layout_spectrum: 0.9865735
-typography_spectrum: 0.6783029
+layout_spectrum: 0
 name: TechDragon
