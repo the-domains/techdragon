@@ -4,12 +4,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.6783029
 color:
   saturation: 0.3644027
@@ -22,5 +22,5 @@ color:
     - '#2667FF'
     - '#3B28CC'
   lightness: 0.01147528
-layout_spectrum: 0
+layout_spectrum: 0.1906552
 name: TechDragon
