@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-01-13T11:00:03.908Z'
+datePublished: '2016-01-14T02:16:09.535Z'
 publisher:
   domain: ''
   name: ''
 title: Getting the office setup.
-dateModified: '2016-01-13T10:59:19.341Z'
+dateModified: '2016-01-13T11:00:03.908Z'
 sourcePath: _posts/2016-01-13-getting-the-office-setup.md
 published: true
 inFeed: true
